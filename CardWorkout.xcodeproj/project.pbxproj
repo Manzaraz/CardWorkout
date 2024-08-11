@@ -13,6 +13,7 @@
 		617B89952C684FDD0021CA80 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 617B89942C684FDD0021CA80 /* Assets.xcassets */; };
 		617B89982C684FDD0021CA80 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 617B89972C684FDD0021CA80 /* Base */; };
 		617B89A02C68508D0021CA80 /* CardSelectionVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 617B899F2C68508D0021CA80 /* CardSelectionVC.swift */; };
+		617B89A22C686D040021CA80 /* Deck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 617B89A12C686D040021CA80 /* Deck.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		617B89972C684FDD0021CA80 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		617B89992C684FDD0021CA80 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		617B899F2C68508D0021CA80 /* CardSelectionVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardSelectionVC.swift; sourceTree = "<group>"; };
+		617B89A12C686D040021CA80 /* Deck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Deck.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				617B898B2C684FDB0021CA80 /* AppDelegate.swift */,
 				617B898D2C684FDB0021CA80 /* SceneDelegate.swift */,
 				617B899F2C68508D0021CA80 /* CardSelectionVC.swift */,
+				617B89A12C686D040021CA80 /* Deck.swift */,
 				617B89912C684FDB0021CA80 /* Main.storyboard */,
 				617B89942C684FDD0021CA80 /* Assets.xcassets */,
 				617B89962C684FDD0021CA80 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				617B89A22C686D040021CA80 /* Deck.swift in Sources */,
 				617B898C2C684FDB0021CA80 /* AppDelegate.swift in Sources */,
 				617B898E2C684FDB0021CA80 /* SceneDelegate.swift in Sources */,
 				617B89A02C68508D0021CA80 /* CardSelectionVC.swift in Sources */,

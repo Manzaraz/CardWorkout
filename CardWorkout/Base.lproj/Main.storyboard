@@ -68,7 +68,6 @@
                                     <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </buttonConfiguration>
                                 <connections>
-                                    <action selector="rulesButtonTapped:" destination="3X0-sW-44n" eventType="touchUpInside" id="b57-SD-CR5"/>
                                     <segue destination="HRo-gq-UM7" kind="presentation" id="wYw-Mi-Io2"/>
                                 </connections>
                             </button>
